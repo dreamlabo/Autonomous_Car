@@ -8,3 +8,5 @@ Various components implemented beyond object avoidance include:
 * An LCD screen to display the temperature reading, in either Fahrenheit or Celsius. 
 
 The project was awarded third place.
+
+https://youtu.be/i8ggvgRDdYk
