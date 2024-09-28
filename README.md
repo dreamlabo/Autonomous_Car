@@ -1,7 +1,8 @@
 # Autonomous_Car
-Autonomous car I designed and coded using a Mega 2560 r3 microcontroller and C++.  
+Autonomous car designed and coded using C++ and a Mega 2560 r3 microcontroller.  
 
-Various components implemented beyond object avoidance include: 
+Features implemented: 
+* Object avaiodance.
 * An onboard music player using a microSD with a PAM8302 Class D amplifier powering a 4-ohm, 3-watt speaker. 
 * A photoresistor to read the ambient light which controls the driving lights. 
 * A thermistor to read the ambient temperature.
